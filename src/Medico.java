@@ -14,7 +14,7 @@ public class Medico {
     // set
 
     public void setNombre(String nombre) {
-        this.nombre = nombre;
+       this.nombre = nombre;
     }
 
     public void setEspecialidad(String especialidad) {
@@ -24,6 +24,7 @@ public class Medico {
     public void setSueldoMensual(double sueldoMensual) {
         this.sueldoMensual = sueldoMensual;
     }
+
 
     // get
 

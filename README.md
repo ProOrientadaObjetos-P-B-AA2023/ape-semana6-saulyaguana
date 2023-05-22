@@ -45,9 +45,9 @@ Se debe generar la solución en lenguaje de programación Java
 
 Sistema de Calificaciones de Estudiantes de un ciclo
 
-Desarrolla un programa para gestionar las calificaciones de los estudiantes de las materia de determinado ciclo. El programa debe tener dos clases principales: "Estudiante" y "Materia".
+Desarrolla un programa para gestionar las calificaciones de los estudiantes de las materia de determinado ciclo. El programa debe tener dos clases principales: "Ciudad" y "Medico".
 
-Del Estudiante se registra su: nombre, edad y las materias a cruzar.
+Del Ciudad se registra su: nombre, edad y las materias a cruzar.
 
 Esta clase debe verificar la aprobación dadas tres calificaciones de una materia: ACD (3.5/10), APE (3.5/10) y AA (3/10). Se aprueba si la sumatoria es de al menos 70%, si cumple con este requisito, se considera que ha aprobado, caso contrario informar al estudiante que deberá rendir un examen de recuperación sobre 3.5/10 pts. agregado al 60% acumulado de los componentes ACD, APE y AA.
 
